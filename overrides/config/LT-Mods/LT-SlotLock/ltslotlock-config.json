@@ -1,0 +1,9 @@
+{
+  "slotSettings": {
+    "doNotCleanSlots": [],
+    "activeSlotHex": "#80ccff",
+    "blockedSlotHex": "#80cc00"
+  },
+  "slotLockEnabled": true,
+  "itemFrameLockEnabled": false
+}
