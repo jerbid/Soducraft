@@ -1,0 +1,6 @@
+{
+  "minecraft:overworld": {
+    "dayDuration": 18000,
+    "nightDuration": 12000
+  }
+}
